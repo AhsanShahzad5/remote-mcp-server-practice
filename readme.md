@@ -1,7 +1,2 @@
-we can deploy our remote server anywhere
-
-it can be AWS
-
-it can be on render
-
-we did here on fastmcp cloud
+# remote-mcp-server-practice
+this project is for deploying a remote mcp server to fastmcp cloud , the repo serves this purpose
